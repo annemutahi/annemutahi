@@ -20,9 +20,16 @@ I'm a passionate Telecommunications Engineer with experience in networking, clou
 
 ---
 
+## 📫 Let’s Connect
 
-- **[[Personal Website / Blog](https://sites.google.com/view/anne-mutahi)]**https://sites.google.com/view/anne-mutahi
-- **[www.linkedin.com/in/anne-mutahi]**www.linkedin.com/in/anne-mutahi
-- **[@ms_annemutahi]**(your_twitter_profile_link)
+<p>
+  <a href="https://www.linkedin.com/in/anne-mutahi/">💼 LinkedIn</a> •
+  <a href="https://twitter.com/@ms_annemutahi">🐦 Twitter</a> •
+  <a href="https://sites.google.com/view/anne-mutahi">🌐 Portfolio</a>
+</p>
 
 
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>Let’s build something meaningful.</b>
+</p>
