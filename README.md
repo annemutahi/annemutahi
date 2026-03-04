@@ -25,7 +25,7 @@ I'm a passionate Telecommunications Engineer with experience in networking, clou
 <p>
   <a href="https://www.linkedin.com/in/anne-mutahi/">💼 LinkedIn</a> •
   <a href="https://twitter.com/@ms_annemutahi">🐦 Twitter</a> •
-  <a href="https://sites.google.com/view/anne-mutahi">🌐 Portfolio</a>
+  <!-- <a href="https://sites.google.com/view/anne-mutahi">🌐 Portfolio</a> -->
 </p>
 
 
